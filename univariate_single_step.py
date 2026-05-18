@@ -1,11 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-@Time ： 2022/1/18 14:27
-@Author ：KI 
-@File ：univariate_single_step.py
-@Motto：Hungry And Humble
-
-"""
 import os
 import sys
 

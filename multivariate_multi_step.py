@@ -1,10 +1,4 @@
 # -*- coding:utf-8 -*-
-"""
-@Time：2022/04/04 23:10
-@Author：KI
-@File：multivariate_multi_step.py
-@Motto：Hungry And Humble
-"""
 import os
 import sys
 
